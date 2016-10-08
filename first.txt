@@ -1,0 +1,4 @@
+hello,
+(git init) - I am the first file in my new 8 october 2016 cycle of learning git. I am an absolutely new file and the texts in this file will be kept separated by '----' lines.
+------------------------------------------------------------
+
